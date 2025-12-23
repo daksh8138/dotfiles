@@ -2,7 +2,7 @@
 
 My personal Linux configuration files (dotfiles), focused on productivity, customization, and a keyboard-driven workflow(Somehow Works on my machine lol).
 
-![Setup Screenshot](desktop.png)
+![Setup Screenshot](images/desktop.png)
 
 ## 🛠 Included
 - Window manager configuration
